@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Random;
 
-public class Movies<s> {
+public class Movies {
     final String[] movies={
             "the shawshank redemption",
             "the godfather",
